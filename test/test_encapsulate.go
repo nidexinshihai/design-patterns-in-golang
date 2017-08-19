@@ -12,6 +12,6 @@ func main() {
 	s.Major = "finance"
 	s.SayHi()
 
-	s.age = 22
-	s.SayHi()
+	//	s.age = 22
+	//	s.SayHi()
 }
